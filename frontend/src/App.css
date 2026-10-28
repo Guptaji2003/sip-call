@@ -1,0 +1,36 @@
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 24px;
+  font-family: Arial, sans-serif;
+}
+
+section {
+  margin-top: 24px;
+  padding: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+label {
+  display: block;
+  margin: 12px 0;
+}
+
+input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 6px;
+  padding: 10px;
+}
+
+button {
+  margin: 6px 6px 6px 0;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.error {
+  color: #b00020;
+}
